@@ -1,7 +1,7 @@
 name: Jekyll Bulma
 description: "Jekyll Bulma Theme, Bulma.io CSS Framework Jekyll Template for Developers"
 baseurl: /jekyll-bulma
-url: http://erayaydin.github.io
+url: http://127.0.0.1:4000 
 download: "https://github.com/erayaydin/jekyll-bulma/archive/master.zip"
 social:
   github: erayaydin

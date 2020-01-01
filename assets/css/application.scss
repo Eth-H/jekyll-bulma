@@ -1,15 +1,14 @@
 ---
-# Only the main Sass file needs front matter (the dashes are enough)
 ---
+
 // Imports
-@import 'variables';
+@import "variables";
 
 // Bulma.io CSS Framework
-@import 'bulma';
-
+@import "bulma";
 
 // Font-Awesome
-@import 'font-awesome/font-awesome';
+@import "font-awesome/font-awesome";
 
 // Custom
 .navbar-brand {
@@ -17,7 +16,6 @@
 }
 
 .post-card {
-
   .post-title {
     font-size: 1.6em;
   }
