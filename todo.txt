@@ -1,6 +1,0 @@
-upgrade dependancies
-make changes to github README when done
-
-change to own git repo and personalise site
-add cv section
-
